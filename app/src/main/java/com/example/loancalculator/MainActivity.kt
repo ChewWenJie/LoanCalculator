@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
             editTextDownPayment.setText("")
             editTextLoanPeriod.setText("")
             editTextInterestRate.setText("")
+            
         }
     }
 }
